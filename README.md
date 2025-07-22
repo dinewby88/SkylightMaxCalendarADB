@@ -5,7 +5,7 @@ Walkthrough of how to enable ADB on the Skylight Calendar Max, install a navigat
 If you find this tutorial helpful and wish to support, it would be greatly appreciated.
 
 ## AMAZON
-You can email me an amazon giftcard to dinewby88@gmail.com
+You can email an amazon giftcard to dinewby88@gmail.com
 
 https://a.co/d/g2UFe8B
 
