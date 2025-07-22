@@ -1,25 +1,25 @@
 # SkylightMaxCalendarADB
-
 Walkthrough of how to enable ADB on the Skylight Calendar Max, install a navigation bar, app launcher, and Aurora App Store.
 
-# Donations
+# Support
+If you find this tutorial helpful and wish to support, it would be greatly appreciated.
 
-If you find this tutorial helpful and wish to gift me a cup of coffee, it would be greatly appreciated. Links are below.
+## AMAZON
+You can email me an amazon giftcard to dinewby88@gmail.com
+
+https://a.co/d/g2UFe8B
 
 ## VENMO
-
 https://venmo.com/u/dinewby88
 
 <img src="assets/venmo.png" width="150"/>
 
 ## PAYPAL
-
 https://paypal.me/DavidNewby
 
 <img src="assets/paypal.png" width="150"/>
 
 # Instructions
-
 1. Connect your device to power and to your PC via USB-C cable.
 2. Hold the power button on the back of the device for approx 2 sec until the "Power off/Restart" options come up:
    ![](assets/20250720_170533_screen1.png)
@@ -67,4 +67,4 @@ https://paypal.me/DavidNewby
 
 NOTE: This is fully reversible. If you hold the power button for 10 seconds, it will initiate a Factory Reset and all of these changes will be cleared.
 
-Again, If you find this tutorial helpful and wish to gift me a cup of coffee, it would be greatly appreciated. Links [above](#Donations).
+Again, If you find this tutorial helpful and wish to support, it would be greatly appreciated. Links [above](#Support).
